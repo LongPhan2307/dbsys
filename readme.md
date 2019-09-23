@@ -1,5 +1,5 @@
 # Database System - September 2019
-## Course's textbooks
+## Recommended textbooks
 - [Ramez Elmasri, Shamkant Navathe, Fundamentals of Database System, 7th Edition, Texas. Addison-Wesley, 2015.](https://www.amazon.com/Fundamentals-Database-Systems-Ramez-Elmasri/dp/0133970779) 
 
 - [Silberschatz, Korth and Sudarshan, Database System Concepts (6th Edition). New York. McGraw-Hill, 2010.](https://www.amazon.com/Database-Concepts-Abraham-Silberschatz-Professor/dp/0073523321/ref=sr_1_2?keywords=korth+database+concept&qid=1569205363&s=books&sr=1-2) 
