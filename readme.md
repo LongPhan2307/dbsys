@@ -17,6 +17,9 @@
 - [Lecture slides](2019_09/slides/L03.pdf)
 - [Reading](2019_09/reading/L03_Reading.pdf)
 
+## L04: Enhanced entity-relationship model
+- [Lecture slides](2019_09/slides/L04.pdf)
+- [Reading](2019_09/reading/L04_Reading.pdf)
+
 ## Final project
-- IEEE recommended practice for SRS could be downloaded from [here](https://pdfs.semanticscholar.org/d2f7/b9e639a3d4d56b747eccf68c1e79bf09caa5.pdf)
 - An example for SRS could be downloaded from [here](http://www.cse.msu.edu/~chengb/RE-491/Papers/SRSExample-webapp.doc)
