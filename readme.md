@@ -21,5 +21,9 @@
 - [Lecture slides](2019_09/slides/L04.pdf)
 - [Reading](2019_09/reading/L04_Reading.pdf)
 
+## L05: ER & EER to relational mapping
+- [Lecture slides](2019_09/slides/L05.pdf)
+- [Reading](2019_09/reading/L05_Reading.pdf)
+
 ## Final project
 - An example for SRS could be downloaded from [here](http://www.cse.msu.edu/~chengb/RE-491/Papers/SRSExample-webapp.doc)
