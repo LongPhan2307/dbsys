@@ -7,23 +7,18 @@
 
 ## L01: Introduction
 - [Lecture slides](2019_09/slides/L01.pdf)
-- [Reading](2019_09/reading/L01_Reading.pdf)
 
 ## L02: The relational data model
 - [Lecture slides](2019_09/slides/L02.pdf)
-- [Reading](2019_09/reading/L02_Reading.pdf)
 
 ## L03: Entity-relationship model
 - [Lecture slides](2019_09/slides/L03.pdf)
-- [Reading](2019_09/reading/L03_Reading.pdf)
 
 ## L04: Enhanced entity-relationship model
 - [Lecture slides](2019_09/slides/L04.pdf)
-- [Reading](2019_09/reading/L04_Reading.pdf)
 
 ## L05: ER & EER to relational mapping
 - [Lecture slides](2019_09/slides/L05.pdf)
-- [Reading](2019_09/reading/L05_Reading.pdf)
 
 ## Final project
 - An example for SRS could be downloaded from [here](http://www.cse.msu.edu/~chengb/RE-491/Papers/SRSExample-webapp.doc)
