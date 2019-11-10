@@ -29,6 +29,7 @@
 ## L07: Relational algebra
 - [Lecture slides](2019_09/slides/L07.pdf)
 - [Exercises](2019_09/labs/ra_exercises.pdf)
+- [Solutions (part 2)](2019_09/labs/ra_solutions.pdf)
 
 ## Final project
 - An example for SRS could be downloaded from [here](http://www.cse.msu.edu/~chengb/RE-491/Papers/SRSExample-webapp.doc)
