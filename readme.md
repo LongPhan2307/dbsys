@@ -23,13 +23,16 @@
 
 ## L06: Creating database schemas and manipulating data in T-SQL
 - [Lecture slides](2019_09/slides/L06.pdf)
-- [Lecture slides 02](2019_09/slides/L06_2.pdf)
 - [Lab 01](2019_09/labs/lab_01.pdf)
 
-## L07: Relational algebra
+## L07: Data types
 - [Lecture slides](2019_09/slides/L07.pdf)
+
+## L08: Relational algebra
+- [Lecture slides](2019_09/slides/L08.pdf)
 - [Exercises](2019_09/labs/ra_exercises.pdf)
 - [Solutions (part 2)](2019_09/labs/ra_solutions.pdf)
 
-## Final project
-- An example for SRS could be downloaded from [here](http://www.cse.msu.edu/~chengb/RE-491/Papers/SRSExample-webapp.doc)
+## L09: Relational algebra
+- [Lecture slides](2019_09/slides/L09.pdf)
+- [Lab 02](2019_09/labs/lab_02.pdf)
