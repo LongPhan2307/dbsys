@@ -36,3 +36,4 @@
 ## L09: Querying data in T-SQL
 - [Lecture slides](2019_09/slides/L09.pdf)
 - [Lab 02](2019_09/labs/lab_02.pdf)
+- [SQL solutions (part 2)](2019_09/labs/sql_solutions.pdf)
